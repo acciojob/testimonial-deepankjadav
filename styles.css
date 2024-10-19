@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.mainc{
+	background-color: #f5f5f5;
+	padding: 10px;
+}
+h1{
+	padding: 20px;
+}
+.text{
+	background-color: white;
+	color: black;
+}
+.author{
+	text-align: right;
+	font-style: italic;
+}
